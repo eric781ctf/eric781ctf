@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 🔭 I'm currently studying in Feng-Chia university for master degree.
 🌱 I'm currently learning data science and applying ML for some of my projects.
+💬 There is a resume to clearly introduce who i am in [here](https://github.com/eric781ctf/Resume)
 📫 How to reach me: ericstyle1998@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eric781ctf&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
