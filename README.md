@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on
+🔭 I’m currently studying in Feng-Chia university for master degree.
+🌱 I’m currently learning data science and apply ML for some of my project.
 📫 How to reach me: ericstyle1998@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eric781ctf&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
