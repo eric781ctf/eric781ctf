@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently studying in Feng-Chia university for master degree.
+🔭 I'm currently studying in [Feng-Chia university](https://www.fcu.edu.tw/en/) for master degree.
 🌱 I'm currently learning data science and applying ML for some of my projects.
 💬 There is a resume to clearly introduce who i am in [here](https://github.com/eric781ctf/Resume)
 📫 How to reach me: ericstyle1998@gmail.com
