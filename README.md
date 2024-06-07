@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 For personal：ericstyle1998@gmail.com
 
-For work in IORG: weiyang@iorg.tw
+For work in IORG：weiyang@iorg.tw
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eric781ctf&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
