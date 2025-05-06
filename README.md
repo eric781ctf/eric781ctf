@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I'm currently learning data science and applying ML for some of my projects.
 
-:office: I'm now working at [IORG（Information Operations Research Group）](https://iorg.tw/) as a data engineer.
+:office: I'm now working at WiWynn as an engineer.
 
 💬 There is a resume to clearly introduce who i am in [here](https://github.com/eric781ctf/Resume/blob/main/Resume.pdf).
 
