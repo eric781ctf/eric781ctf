@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 🌱 I'm currently learning data science and applying ML for some of my projects.
 
-:office: I'm now working at WiWynn as an engineer.
+:office: I'm now working at WiWynn as an cloud engineer.
 
 💬 There is a resume to clearly introduce who i am in [here](https://github.com/eric781ctf/Resume/blob/main/Resume.pdf).
 
 📫 How to reach me？
 
 For personal：ericstyle1998@gmail.com
-
-For work in IORG：weiyang@iorg.tw
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eric781ctf&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
