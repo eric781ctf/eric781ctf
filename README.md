@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eric781ctf)](https://github.com/ryo-ma/github-profile-trophy)
+
 🔭 I earned master degree in IECS at [Feng-Chia university](https://www.fcu.edu.tw/en/).
 
 🌱 I'm currently learning data science and applying ML for some of my projects.
